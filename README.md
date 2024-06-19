@@ -65,6 +65,7 @@ NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_STREAM_API_KEY=<your stream api key>
 STREAM_SECRET_KEY=<your stream secret key>
+```
 
 ## Screenshots
 ![Landing](./public/ui/landing.png)
