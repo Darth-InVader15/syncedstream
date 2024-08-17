@@ -16,7 +16,7 @@ const Navbar = () => {
           className="max-sm:size-10"
         />
         <p className="text-[26px] ml-4 font-bold text-amber-700 max-sm:hidden">
-          Let's Sync
+          Lets Sync
         </p>
       </Link>
       <div className="flex-between gap-5">

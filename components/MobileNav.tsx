@@ -31,7 +31,7 @@ const MobileNav = () => {
               height={32}
               alt="logo"
             />
-            <p className="text-[26px] font-extrabold text-white">Let's Sync</p>
+            <p className="text-[26px] font-extrabold text-white">Lets Sync</p>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
             <SheetClose asChild>
